@@ -1,0 +1,23 @@
+{
+
+"name": "efms",
+
+"title": "Escape from Mos Shuuta",
+
+"description": "A level 1 converted adventure for SW5e",
+
+"author": "Fantasy Flight Games & others",
+
+"version": "1.0.1",
+
+"minimumCoreVersion": "0.8.1",
+
+"compatibleCoreVersion": "9",
+
+
+"download": "https://github.com/Jvovillia/efms_foundryvtt",
+
+"manifest": "https://github.com/Jvovillia/efms/world.json",
+
+"download": "https://github.com/Jvovillia/escape_from_mos_shuuta/blob/main/efms.zip?raw=true",
+"manifest": "https://raw.githubusercontent.com/Jvovillia/escape_from_mos_shuuta/main/module.json"

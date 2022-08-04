@@ -1,0 +1,23 @@
+{
+  "name": "efms",
+  "title": "Escape from Mos Shuuta",
+  "description": "<h3>It is a period of unrest and opportunity in the galaxy. The Galactic Empire struggles to maintain control in the midst of civil war. Meanwhile, scoundrels and smugglers, explorers and expatriates, and fringers of all types scramble for a living on the edges of galactic civilization. It is a hard life, but these renegades have more freedom and opportunity than any citizen of tile Core Worlds.</h3>\n<h3>You are about to embark upon an exciting journey through the Star Wars universe, living by your wits and your skill with a blaster, one step ahead of the Empire and the worst examples of the criminal element. Escape from Mos Shuuta is an adventure which has been converted for the SW5e roleplaying system.</h3>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sw5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/efms/scenes/swe02_feature.webp",
+  "coreVersion": "9.269",
+  "nextSession": "2022-02-20T03:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.2.2.2.2"
+}
